@@ -5,4 +5,4 @@ para entender lo que se perdió y lo que se disputa.
 Python, GIS y datos espaciales.
 El territorio habla, a veces.
 
-**Portafolio → [geoidegeoidal.github.io](https://geoidegeoidal.github.io/)**
+**Portafolio → [julloa.space](https://julloa.space/)**
