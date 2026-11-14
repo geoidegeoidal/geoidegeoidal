@@ -37,7 +37,7 @@ Transformo datos territoriales y ambientales en mapas, análisis y herramientas 
 Estos proyectos son experimentos en desarrollo, no productos terminados:
 
 - [MR_ROBOT](https://github.com/geoidegeoidal/mr_robot) — navegación peatonal con aprendizaje por refuerzo.
-- [HoloSynth](https://github.com/geoidegeoidal/HoloSynth) — experimento de síntesis audiovisual controlada por visión computacional.
+- [HoloSynth](https://github.com/geoidegeoidal/HoloSynth) — experimento de síntesis audiovisual con controles virtuales y entrada MIDI experimental.
 - [Marraquetómetro](https://github.com/geoidegeoidal/marraquetometro) — exploración lúdica de accesibilidad peatonal a panaderías.
 
 ## Más
